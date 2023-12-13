@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+body p {
+    float: left;
+    text-align: left;
+}
+.main {
+    display: flex;
+    max-width: 800px;
+    margin-left: 20px;
+}
+.image {
+    max-width: 100%;
+    height: auto;
+    margin-right: 20px;
+    /* Adjust the spacing between the image and text */
+}
+.profile {
+    max-width: 800px;
+    margin-left: 20px;
+}
+.link {
+    margin-left: 20px;
+}
